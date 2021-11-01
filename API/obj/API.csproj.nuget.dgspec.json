@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj": {}
+    "C:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj": {
+    "C:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\abiek\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\abiek\\Desktop\\PhotoApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\abiek\\Desktop\\PhotoApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -26,6 +26,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +46,12 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.4, )"
             },
