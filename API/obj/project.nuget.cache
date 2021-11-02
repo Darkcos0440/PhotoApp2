@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Mxsi1OXCJRC2S30osw64RYuWt99aKE/mRTgDS8V7cws4e6Fl3WLtXJgrj8MdqqWXup6AkfJq3z2sNC7z61GYQ==",
+  "dgSpecHash": "8ZeDAkHEgvDqjBk+ODjqly39+CFeF5c16ZoSKRjplDhl+9jZiceWCjIiUBoSSTNDBk5wVlIjLNOLbEvqpCb8qA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\abiek\\Desktop\\PhotoApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abiek\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\abiek\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
