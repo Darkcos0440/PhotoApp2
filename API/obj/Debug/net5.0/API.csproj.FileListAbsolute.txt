@@ -106,7 +106,6 @@ C:\Users\abiek\Desktop\PhotoApp\PhotoApp2\api\obj\Debug\net5.0\staticwebassets\A
 C:\Users\abiek\Desktop\PhotoApp\PhotoApp2\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
 C:\Users\abiek\Desktop\PhotoApp\PhotoApp2\api\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
 C:\Users\abiek\Desktop\PhotoApp\PhotoApp2\api\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
-C:\Users\abiek\Desktop\PhotoApp\PhotoApp2\api\obj\Debug\net5.0\API.csproj.CopyComplete
 C:\Users\abiek\Desktop\PhotoApp\PhotoApp2\api\obj\Debug\net5.0\API.dll
 C:\Users\abiek\Desktop\PhotoApp\PhotoApp2\api\obj\Debug\net5.0\ref\API.dll
 C:\Users\abiek\Desktop\PhotoApp\PhotoApp2\api\obj\Debug\net5.0\API.pdb
