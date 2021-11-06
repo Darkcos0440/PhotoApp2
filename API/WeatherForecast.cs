@@ -12,8 +12,5 @@ namespace API
 
         public string Summary { get; set; }
 
-        //test
-
-        public string Summary { get; set; }
     }
 }
