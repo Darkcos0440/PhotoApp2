@@ -1258,25 +1258,26 @@
   "packageFolders": {
     "C:\\Users\\abiek\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\abiek\\Desktop\\PhotoApp\\PhotoApp2\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\abiek\\Desktop\\PhotoApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\abiek\\Desktop\\PhotoApp\\PhotoApp2\\api\\API.csproj",
       "packagesPath": "C:\\Users\\abiek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abiek\\Desktop\\PhotoApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\abiek\\Desktop\\PhotoApp\\PhotoApp2\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\abiek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
